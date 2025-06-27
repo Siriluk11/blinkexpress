@@ -1,0 +1,5 @@
+{
+  "name": "BlinkExpress",
+  "description": "A modern, full-featured web application for BlinkExpress, a parcel delivery service. It includes features like parcel pickup requests, tracking, user profile management, and a complaint system, all wrapped in a sleek, multilingual, and theme-adaptable user interface.",
+  "requestFramePermissions": []
+}
